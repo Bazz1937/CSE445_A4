@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hotels 
+    xmlns:xsi="Https://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="Hotels.xsd">
+
+    <!-- Hotel 1 -->
+    <Hotel NearestAirport="Phoenix Gateway">
+        <Name>Legacy Golf Resort</Name>
+        <Phone>602-305-5500</Phone>
+        <Address>
+            <Number>6808</Number>
+            <Street>S. 32nd St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85042</Zip>
+        </Address>
+    </Hotel>
+
+
+
+    <!-- Hotel 2 -->
+    <Hotel NearestAirport="Sky Harbor" Rating="4.0">
+        <Name>Hyatt Regency Phoenix</Name>
+        <Phone>602-252-1234</Phone>
+        <Address>
+            <Number>122</Number>
+            <Street>N. 2nd St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85004</Zip>
+        </Address>
+    </Hotel>
+
+
+    <!-- Hotel 3 -->
+    <Hotel NearestAirport="Sky Harbor">
+        <Name>The Saguaro Scottsdale</Name>
+        <Phone>480-308-1100</Phone>
+        <Phone>480-308-1101</Phone>
+        <Address>
+            <Number>4000</Number>
+            <Street>N. Drinkwater Blvd</Street>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <Zip>85251</Zip>
+        </Address>
+    </Hotel>
+
+
+    <!-- Hotel 4 -->
+    <Hotel NearestAirport="Sky Harbor" Rating="4.7">
+        <Name>JW Marriott Scottsdale Camelback Inn Resort &amp; Spa</Name>
+        <Phone>480-948-1700</Phone>
+        <Phone>800-243-1250</Phone>
+        <Address>
+            <Number>5402</Number>
+            <Street>E. Lincoln Dr</Street>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <Zip>85253</Zip>
+        </Address>
+    </Hotel>
+
+
+    <!-- Hotel 5 -->
+    <Hotel NearestAirport="Phoenix Gateway" Rating="4.3">
+        <Name>Sheraton Mesa Hotel at Wrigleyville West</Name>
+        <Phone>480-664-1221</Phone>
+        <Address>
+            <Number>860</Number>
+            <Street>N. Riverview</Street>
+            <City>Mesa</City>
+            <State>AZ</State>
+            <Zip>85201</Zip>
+        </Address>
+    </Hotel>
+
+
+    <!-- Hotel 6 -->
+    <Hotel NearestAirport="Sky Harbor">
+        <Name>W Scottsdale</Name>
+        <Phone>480-970-2100</Phone>
+        <Address>
+            <Number>7277</Number>
+            <Street>E. Camelback Rd</Street>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <Zip>85251</Zip>
+        </Address>
+    </Hotel>
+
+
+    <!-- Hotel 7 (multiple phone #'s) -->
+    <Hotel NearestAirport="Sky Harbor" Rating="4.9">
+        <Name>The Ritz-Carlton, Paradise Valley</Name>
+        <Phone>480-368-8888</Phone>
+        <Phone>800-542-8680</Phone>
+        <Address>
+            <Number>7500</Number>
+            <Street>N. Paradise Valley Rd</Street>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <Zip>85260</Zip>
+        </Address>
+    </Hotel>
+
+
+    <!-- Hotel 8 (multiple phone #'s) -->
+    <Hotel NearestAirport="Phoenix Gateway">
+        <Name>Four Points by Sheraton Mesa</Name>
+        <Phone>480-833-8300</Phone>
+        <Phone>800-474-7474</Phone>
+        <Address>
+            <Number>1840</Number>
+            <Street>S. Country Club Dr</Street>
+            <City>Mesa</City>
+            <State>AZ</State>
+            <Zip>85210</Zip>
+        </Address>
+    </Hotel>
+
+
+    <!-- Hotel 9 -->
+    <Hotel NearestAirport="Sky Harbor" Rating="3.5">
+        <Name>Holiday Inn Express &amp; Suites Tempe</Name>
+        <Phone>480-966-7000</Phone>
+        <Address>
+            <Number>1420</Number>
+            <Street>N. Scottsdale Rd</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+
+    <!-- Hotel 10 (multiple phone #'s)-->
+    <Hotel NearestAirport="Sky Harbor" Rating="4.1">
+        <Name>Found:Re Hotel</Name>
+        <Phone>602-875-8000</Phone>
+        <Phone>602-875-8001</Phone>
+        <Address>
+            <Number>1100</Number>
+            <Street>N. Central Ave</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85003</Zip>
+        </Address>
+    </Hotel>
+
+
+</Hotels>
