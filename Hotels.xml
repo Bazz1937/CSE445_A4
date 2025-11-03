@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotels 
-    xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="Hotels.xsd">
     <!-- Hotel 1 -->
     <Hotel NearestAirport="Phoenix Gateway">
@@ -150,5 +150,6 @@
 
 
 </Hotels>
+
 
 
